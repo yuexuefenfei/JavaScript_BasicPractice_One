@@ -1,2 +1,0 @@
-# JavaScript_BasicPractice_One
-JavaScript_BasicPractice
